@@ -52,4 +52,4 @@ Firebase, Tableau, Power BI, Git, Excel
 
 * 🔗 GitHub: https://github.com/ShubhamGaonkar02
 * 🔗 LinkedIn: https://linkedin.com/in/shubhamgaonkar2005
-* 🌐 Portfolio: https://shubham-gaonkar-portfolio.web.app/
+* 🌐 Portfolio: https://shubham-gaonkar-portfolio.netlify.app/
